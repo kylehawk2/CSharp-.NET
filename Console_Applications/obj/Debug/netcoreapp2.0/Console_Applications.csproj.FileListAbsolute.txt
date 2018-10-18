@@ -1,0 +1,11 @@
+C:\Users\Kyle\Documents\C#-.NET\Console_Applications\bin\Debug\netcoreapp2.0\Console_Applications.deps.json
+C:\Users\Kyle\Documents\C#-.NET\Console_Applications\bin\Debug\netcoreapp2.0\Console_Applications.runtimeconfig.json
+C:\Users\Kyle\Documents\C#-.NET\Console_Applications\bin\Debug\netcoreapp2.0\Console_Applications.runtimeconfig.dev.json
+C:\Users\Kyle\Documents\C#-.NET\Console_Applications\bin\Debug\netcoreapp2.0\Console_Applications.dll
+C:\Users\Kyle\Documents\C#-.NET\Console_Applications\bin\Debug\netcoreapp2.0\Console_Applications.pdb
+C:\Users\Kyle\Documents\C#-.NET\Console_Applications\obj\Debug\netcoreapp2.0\Console_Applications.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\C#-.NET\Console_Applications\obj\Debug\netcoreapp2.0\Console_Applications.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\Console_Applications\obj\Debug\netcoreapp2.0\Console_Applications.AssemblyInfoInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\Console_Applications\obj\Debug\netcoreapp2.0\Console_Applications.AssemblyInfo.cs
+C:\Users\Kyle\Documents\C#-.NET\Console_Applications\obj\Debug\netcoreapp2.0\Console_Applications.dll
+C:\Users\Kyle\Documents\C#-.NET\Console_Applications\obj\Debug\netcoreapp2.0\Console_Applications.pdb

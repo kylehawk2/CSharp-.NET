@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>WizardRegForm</title>
+</head>
+<body>
+<br>
+    <form action='/register' method='post'>
+        <div class="form-group">
+            <label>Your Name:</label>
+            <input type='text' name='name'>
+        </div>
+        <div class="form-group">
+            <label>House:</label>
+            <select name='house'>
+                <option value='Griffindor'>Griffindor</option>
+                <option value='Ravenclaw'>Ravenclaw</option>
+                <option value='Slytherin'>Slytherin</option>
+                <option value='Hufflepuff'>Hufflepuff</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label>Year:</label>
+            <input type='number' name='year'>
+            <button>Submit</button>
+        </div>
+    </form>
+</body>
+</html>

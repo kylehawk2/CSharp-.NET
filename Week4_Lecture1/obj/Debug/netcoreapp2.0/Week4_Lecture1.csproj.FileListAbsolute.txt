@@ -1,0 +1,11 @@
+C:\Users\Kyle\Documents\C#-.NET\Week4_Lecture1\bin\Debug\netcoreapp2.0\Week4_Lecture1.deps.json
+C:\Users\Kyle\Documents\C#-.NET\Week4_Lecture1\bin\Debug\netcoreapp2.0\Week4_Lecture1.runtimeconfig.json
+C:\Users\Kyle\Documents\C#-.NET\Week4_Lecture1\bin\Debug\netcoreapp2.0\Week4_Lecture1.runtimeconfig.dev.json
+C:\Users\Kyle\Documents\C#-.NET\Week4_Lecture1\bin\Debug\netcoreapp2.0\Week4_Lecture1.dll
+C:\Users\Kyle\Documents\C#-.NET\Week4_Lecture1\bin\Debug\netcoreapp2.0\Week4_Lecture1.pdb
+C:\Users\Kyle\Documents\C#-.NET\Week4_Lecture1\obj\Debug\netcoreapp2.0\Week4_Lecture1.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\C#-.NET\Week4_Lecture1\obj\Debug\netcoreapp2.0\Week4_Lecture1.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\Week4_Lecture1\obj\Debug\netcoreapp2.0\Week4_Lecture1.AssemblyInfoInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\Week4_Lecture1\obj\Debug\netcoreapp2.0\Week4_Lecture1.AssemblyInfo.cs
+C:\Users\Kyle\Documents\C#-.NET\Week4_Lecture1\obj\Debug\netcoreapp2.0\Week4_Lecture1.dll
+C:\Users\Kyle\Documents\C#-.NET\Week4_Lecture1\obj\Debug\netcoreapp2.0\Week4_Lecture1.pdb

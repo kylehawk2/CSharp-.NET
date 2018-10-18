@@ -1,0 +1,11 @@
+C:\Users\Kyle\Documents\C#-.NET\Human_2\bin\Debug\netcoreapp2.0\Human_2.deps.json
+C:\Users\Kyle\Documents\C#-.NET\Human_2\bin\Debug\netcoreapp2.0\Human_2.runtimeconfig.json
+C:\Users\Kyle\Documents\C#-.NET\Human_2\bin\Debug\netcoreapp2.0\Human_2.runtimeconfig.dev.json
+C:\Users\Kyle\Documents\C#-.NET\Human_2\bin\Debug\netcoreapp2.0\Human_2.dll
+C:\Users\Kyle\Documents\C#-.NET\Human_2\bin\Debug\netcoreapp2.0\Human_2.pdb
+C:\Users\Kyle\Documents\C#-.NET\Human_2\obj\Debug\netcoreapp2.0\Human_2.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\C#-.NET\Human_2\obj\Debug\netcoreapp2.0\Human_2.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\Human_2\obj\Debug\netcoreapp2.0\Human_2.AssemblyInfoInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\Human_2\obj\Debug\netcoreapp2.0\Human_2.AssemblyInfo.cs
+C:\Users\Kyle\Documents\C#-.NET\Human_2\obj\Debug\netcoreapp2.0\Human_2.dll
+C:\Users\Kyle\Documents\C#-.NET\Human_2\obj\Debug\netcoreapp2.0\Human_2.pdb

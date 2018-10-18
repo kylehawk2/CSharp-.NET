@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    @using Week4_Lecture1.Models
+    @model Dog
+    <div class="row">
+        <div class="col-md-6 offset text-center">
+        <h1>Name: @Model.Name</h1>
+        <h1>Breed: @Model.Breed</h1>
+        <h1>Weight: @Model.Weight</h1>
+        <h1>Owner's Email: @Model.OwnerEmail</h1>
+        </div>
+    </div>
+</body>
+</html>
