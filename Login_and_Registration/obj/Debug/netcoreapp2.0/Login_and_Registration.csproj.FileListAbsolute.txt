@@ -1,0 +1,11 @@
+C:\Users\Kyle\Documents\C#-.NET\Login_and_Registration\bin\Debug\netcoreapp2.0\Login_and_Registration.deps.json
+C:\Users\Kyle\Documents\C#-.NET\Login_and_Registration\bin\Debug\netcoreapp2.0\Login_and_Registration.runtimeconfig.json
+C:\Users\Kyle\Documents\C#-.NET\Login_and_Registration\bin\Debug\netcoreapp2.0\Login_and_Registration.runtimeconfig.dev.json
+C:\Users\Kyle\Documents\C#-.NET\Login_and_Registration\bin\Debug\netcoreapp2.0\Login_and_Registration.dll
+C:\Users\Kyle\Documents\C#-.NET\Login_and_Registration\bin\Debug\netcoreapp2.0\Login_and_Registration.pdb
+C:\Users\Kyle\Documents\C#-.NET\Login_and_Registration\obj\Debug\netcoreapp2.0\Login_and_Registration.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\C#-.NET\Login_and_Registration\obj\Debug\netcoreapp2.0\Login_and_Registration.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\Login_and_Registration\obj\Debug\netcoreapp2.0\Login_and_Registration.AssemblyInfoInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\Login_and_Registration\obj\Debug\netcoreapp2.0\Login_and_Registration.AssemblyInfo.cs
+C:\Users\Kyle\Documents\C#-.NET\Login_and_Registration\obj\Debug\netcoreapp2.0\Login_and_Registration.dll
+C:\Users\Kyle\Documents\C#-.NET\Login_and_Registration\obj\Debug\netcoreapp2.0\Login_and_Registration.pdb
