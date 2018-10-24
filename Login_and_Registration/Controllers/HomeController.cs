@@ -70,48 +70,28 @@ namespace Login_and_Registration.Controllers
         [Route("Login")]
         public IActionResult Login(User userSubmission)
         {
-            if(ModelState.IsValid)
+            // if inital ModelState is valid, query for a user with provided email
+            var userInDb = dbContext.users.FirstOrDefault(u => u.Email == userSubmission.Email);
+            // If no user exists with provided email
+            if(userInDb == null)
             {
-                // if inital ModelState is valid, query for a user with provided email
-                var userInDb = dbContext.users.FirstOrDefault(u => u.Email == userSubmission.Email);
-                // If no user exists with provided email
-                if(userInDb == null)
-                {
-                    // Add an error to ModelState and return to View!
-                    ModelState.AddModelError("Email", "Invalid Email/Password");
-                    return View("Login");
-                }
-                // Initialize hasher object
-                var hasher = new PasswordHasher<User>();
-                // verify provided password against hash store in db
-                var result = hasher.VerifyHashedPassword(userSubmission, userInDb.Password, userSubmission.Password);
-                // result can be compared to 0 for failure
-                if(result == 0)
-                {
-                    Console.WriteLine("Invalid Password");
-                    ModelState.AddModelError("Password", "Invaild Password");
-                    return View("Login");
-                }
-                HttpContext.Session.SetInt32("id", userInDb.id);
-                return RedirectToAction("Sucess");
+                // Add an error to ModelState and return to View!
+                ModelState.AddModelError("Email", "Invalid Email/Password");
+                return View("Login");
             }
-            return View("Login");
-            
-            // PasswordHasher<User> hasher = new PasswordHasher<User>();
-            // User loginUser = dbContext.users.Where(user => user.Email).SingleOrDefault();
-            // if(loginUser == null)
-            // {
-            //     ModelState.AddModelError("LogEmail", "Invalid Email/Password");
-            // }
-            // else if(hasher.VerifyHashedPassword(userLog, loginUser.Password, userLog.Password) == 0)
-            // {
-            //     ModelState.AddModelError("LogEmail", "Invaild Email/Password");
-            // }
-            // if(!ModelState.IsValid)
-            // {
-            //     return View("Index");
-            // }
-            // return View("Success");
+            // Initialize hasher object
+            var hasher = new PasswordHasher<User>();
+            // verify provided password against hash store in db
+            var result = hasher.VerifyHashedPassword(userSubmission, userInDb.Password, userSubmission.Password);
+            // result can be compared to 0 for failure
+            if(result == 0)
+            {
+                Console.WriteLine("Invalid Password");
+                ModelState.AddModelError("Password", "Invaild Password");
+                return View("Login");
+            }
+            HttpContext.Session.SetInt32("id", userInDb.id);
+            return RedirectToAction("Success");
         }
     }
 }
